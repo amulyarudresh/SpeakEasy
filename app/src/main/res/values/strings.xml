@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SpeakEasy</string>
+    <string name="intro_message">Namaste! I\'m your friendly Indian AI Coach. Let\'s chat!</string>
+    <string name="tap_to_reply">Hold to Record 🎙️</string>
+    <string name="listening">Listening...</string>
+    <string name="thinking">Thinking...</string>
+    <string name="user_speech">You: %1$s</string>
+    <string name="did_not_understand">I didn\'t understand.</string>
+    <string name="error_message">Error: %1$s</string>
+    <string name="connection_error">Connection error. Please try again.</string>
+    <string-array name="scenarios">
+        <item>General Chat</item>
+        <item>Job Interview 💼</item>
+        <item>First Date 🌹</item>
+        <item>Public Speech 🎤</item>
+    </string-array>
+    <string-array name="tones">
+        <item>Friendly 🤝</item>
+        <item>Strict 🧐</item>
+        <item>Funny 😂</item>
+        <item>Encouraging 🌟</item>
+    </string-array>
+</resources>
