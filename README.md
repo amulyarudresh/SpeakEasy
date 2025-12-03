@@ -30,7 +30,7 @@ Practice for specific real-world situations:
 ## 🛠️ Tech Stack
 
 -   **Language:** Kotlin (Android)
--   **AI Model:** Google Gemini Flash 1.5 API
+-   **AI Model:** Google Gemini Flash 2.5 API
 -   **Text-to-Speech:** Android TTS with SSML (Speech Synthesis Markup Language)
 -   **Ads:** Google AdMob (Rewarded Video)
 -   **UI:** Material Design 3 (XML Layouts)
